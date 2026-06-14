@@ -6,4 +6,5 @@ A modular collection of high-performance console engines focusing on data tracki
 ### 🎮 Games Included:
 1. **Blackjack:** Handles dynamic ace calculation rules, arrays resets, and multi-threaded script loops.
 2. **Hangman:** Manages historical guess constraints tracking, string conversion display logic, and asset stages indexing arrays.
-3. More to come soon....
+3. **Rock,Paper,Scissors** A simple based clasic, using basic python conditions
+4. More to come soon....
